@@ -25,6 +25,6 @@ And now you are logged into your ftp server that you started just now.
 If you want to access this ftp server on another device then,
 It should be on the same network on which your ftp server is running.
 
-ftp <ip address of machine which is running the ftp server> 2121
+ftp [ip address of machine which is running the ftp server] 2121
 
 Then again the same process enter your credentials and login!
