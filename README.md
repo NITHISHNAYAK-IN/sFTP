@@ -6,6 +6,7 @@ You can use this tool on Termux & also on any Linux operating systems.
 How to use ?
 
 bash setup.sh
+
 This above command will install all the requirements,
 (only run it once, not needed to run each time when you needed to start your ftp server).
 
